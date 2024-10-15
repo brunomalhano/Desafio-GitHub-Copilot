@@ -1,6 +1,8 @@
 # Desafio-GitHub-Copilot
 
-### Desafios:
+### Siga as etapas dos pré-requisitos de acordo com seu sistema operacional.
+**- Faça a descompactação dos arquivos no diretório `datasets`
+## Desafios:
 
 **1. Ler e transformar os dados de corridas de táxi:**
 - Usando PySpark, leia o arquivo CSV `yellow_tripdata_example.csv`.
