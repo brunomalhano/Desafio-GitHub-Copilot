@@ -42,7 +42,7 @@
 - Utilize GitHub Copilot para gerar a documentação para cada função do código.
 - Revise e ajuste a documentação gerada para garantir que está clara e correta.
 
-**9. Deploy no Azure:**
+**9. Deploy de infraestrutura de dados no Azure:**
 - Crie um template Terraform que provisione a infraestrutura necessária no Azure, incluindo:
   - Um Workspace Databricks.
   - Uma Storage Account.
