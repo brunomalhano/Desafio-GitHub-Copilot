@@ -2,6 +2,7 @@
 
 ### Siga as etapas dos pré-requisitos de acordo com seu sistema operacional.
 - Faça a descompactação dos arquivos archive.zip presentes no diretório `dataset`
+- Escolha um dos arquivos para realizar a tarefa.
 ## Desafios:
 
 **1. Ler e transformar os dados de corridas de táxi:**
