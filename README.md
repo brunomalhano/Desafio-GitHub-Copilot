@@ -42,9 +42,8 @@
 - Utilize GitHub Copilot para gerar a documentação para cada função do código.
 - Revise e ajuste a documentação gerada para garantir que está clara e correta.
 
-**9. Deploy da aplicação no Azure:**
+**9. Deploy no Azure:**
 - Crie um template Terraform que provisione a infraestrutura necessária no Azure, incluindo:
+  - Um Workspace Databricks.
+  - Uma Storage Account.
   - Um cluster Databricks para o processamento dos dados.
-  - Um banco de dados SQL para armazenar os resultados de agregações e análises.
-
-Esses desafios permitem que os participantes usem GitHub Copilot para gerar soluções que envolvem manipulação de dados em PySpark, testes, segurança, documentação e infraestrutura no Azure.
