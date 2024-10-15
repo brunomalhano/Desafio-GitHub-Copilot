@@ -1,7 +1,7 @@
 # Desafio-GitHub-Copilot
 
 ### Siga as etapas dos pré-requisitos de acordo com seu sistema operacional.
-- Faça a descompactação dos arquivos archive.zip presentes no diretório `dataset`
+- Utilize o arquivo `yellow_tripdata_example.csv` na pasta `dataset`
 
 ## Desafios:
 
@@ -10,6 +10,7 @@
 - Realize as seguintes transformações:
   - Converta a coluna `pickup_datetime` para o formato de data e hora apropriado.
   - Calcule uma nova coluna `trip_duration` (duração da viagem) em minutos, com base nas colunas de `pickup_datetime` e `dropoff_datetime`.
+  - Utilize o Copilot para gerar dados sintético para dobrar o tamanho do dataset.
 
 **2. Filtragem e agregação de dados:**
 - Crie um pipeline de PySpark que:
